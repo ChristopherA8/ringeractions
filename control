@@ -1,0 +1,9 @@
+Package: com.chr1s.ringeractions
+Name: RingerActions
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Custom actions for the ringer switch!
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), com.spark.libsparkapplist
